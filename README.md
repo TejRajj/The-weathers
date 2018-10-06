@@ -1,2 +1,3 @@
 # The-weathers
-The weather API App to show the country current weather.This API is build uisng Django framework.
+The weather API App to show the country current weather.This API is build using Python & Django framework.
+You have to add the city and you will get to know its weather.
